@@ -241,5 +241,13 @@ The system extracts 21 hand landmark coordinates using MediaPipe, converts them 
 ✔ Proper ML workflow  
 
 ---
+## 📷 Screenshots
+<img width="1920" height="1200" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/ff2b7b3a-d370-4beb-a81d-a0ac39bc833c" />
+<br>
+<br>
+<img width="1920" height="1200" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/0a11726a-17c1-4623-a9a3-c1cfdf41d844" />
+
+
+---
 
 🚀 Built with Computer Vision + Machine Learning
